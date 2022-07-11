@@ -1,0 +1,35 @@
+{
+  "name": "advanced-search-with-filter-in-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "eslint-config-keystone-react": "1.0.0",
+    "lowercase-keys": "3.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-external-link": "2.0.0",
+    "react-scripts": "4.0.0",
+    "rfc-react-scripts": "0.1.2",
+    "some": "0.1.1",
+    "somejs": "0.4.3",
+    "tolowercase": "1.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

@@ -1,0 +1,54 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+* {
+  background: black;
+}
+
+.input_div {
+  margin: 20px;
+  width: auto;
+}
+
+.caption {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.input {
+  padding: 20px;
+  width: 80%;
+  background: black;
+  color: white;
+  border: 2px solid whiite;
+  border-radius: 200px;
+  font-weight: bold;
+}
+
+h1{
+  color: white;
+}
+.table {
+  margin-left: 20%;
+}
+
+th {
+  font-size: 18px;
+  color: black;
+  background: white;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+td {
+  padding: 10px;
+  border: 2px solid white;
+  color: white;
+  border-radius: 20px;
+}
